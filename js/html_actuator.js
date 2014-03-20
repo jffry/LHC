@@ -63,17 +63,17 @@ HTMLActuator.prototype.addTile = function (tile) {
 
   var outputtext = new Array();
   outputtext[0] = "";
-  outputtext[1] = "electron";
-  outputtext[2] = "electron neutrino";
-  outputtext[3] = "muon";
-  outputtext[4] = "muon neutrino";
-  outputtext[5] = "tau";
-  outputtext[6] = "tau neutrino";
-  outputtext[7] = "gluon";
-  outputtext[8] = "photon";
-  outputtext[9] = "Z boson";
-  outputtext[10] = "W boson";
-  outputtext[11] = "Higgs Boson";
+  outputtext[1] = "Threes";
+  outputtext[2] = "1024";
+  outputtext[3] = "2048";
+  outputtext[4] = "4096";
+  outputtext[5] = "AI";
+  outputtext[6] = "3D";
+  outputtext[7] = "4D";
+  outputtext[8] = "Flappy 2048";
+  outputtext[9] = "HN Plays 2048";
+  outputtext[10] = "2048 Hex";
+  outputtext[11] = "9007199254740992";
 
 
   inner.classList.add("tile-inner");
