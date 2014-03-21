@@ -73,7 +73,7 @@ HTMLActuator.prototype.addTile = function (tile) {
   outputtext[8] = "Flappy 2048";
   outputtext[9] = "HN Plays 2048";
   outputtext[10] = "2048 Hex";
-  outputtext[11] = "9007199254740992";
+  outputtext[11] = "2048 Meta";
 
 
   inner.classList.add("tile-inner");
